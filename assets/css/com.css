@@ -26,7 +26,7 @@ body {
 }
 
 .fb-comments {
-  border: 1px solid #e9ebee;
+  border: 1px solid #FFD700;
   border-radius: 3px;
   padding: 0 15px;
   padding-bottom: 15px;
@@ -37,11 +37,11 @@ body {
 
 .fb-comments-header {
   padding: 15px 0;
-  border-bottom: 1px solid #e9ebee;
+  border-bottom: 1px solid #FFD700;
 }
 
 .fb-comments-header span {
-  color: #000;
+  color: #FFFFFF;
   font-weight: 700;
   font-size: 0.9em;
 }
@@ -55,7 +55,7 @@ body {
 
 .fb-comments-reply-wrapper {
   margin-left: 60px;
-  border-left: 1px dotted #e9ebee;
+  border-left: 1px dotted #FFD700;
   padding-left: 5px;
 }
 
@@ -108,7 +108,7 @@ tr {
   font-size: 0.9em;
   color: #000;
   border-radius: 21px;
-  background-color: #eaebef;
+  background-color: #FFD700;
   padding: 10px 20px;
 }
 
