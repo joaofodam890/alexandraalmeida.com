@@ -26,7 +26,7 @@ body {
 }
 
 .fb-comments {
-  border: 1px solid #FFD700;
+  border: 1px solid #e2cb46;
   border-radius: 3px;
   padding: 0 15px;
   padding-bottom: 15px;
@@ -37,11 +37,11 @@ body {
 
 .fb-comments-header {
   padding: 15px 0;
-  border-bottom: 1px solid #FFD700;
+  border-bottom: 1px solid #e2cb46;
 }
 
 .fb-comments-header span {
-  color: #FFFFFF;
+  color: #030303;
   font-weight: 700;
   font-size: 0.9em;
 }
@@ -55,7 +55,7 @@ body {
 
 .fb-comments-reply-wrapper {
   margin-left: 60px;
-  border-left: 1px dotted #FFD700;
+  border-left: 1px dotted #e2cb46;
   padding-left: 5px;
 }
 
@@ -89,7 +89,7 @@ tr {
 }
 
 .fb-comments-comment-name name {
-  color: #365899;
+  color: white;
   text-decoration: none;
   font-weight: 700;
   cursor: pointer;
@@ -106,9 +106,9 @@ tr {
 
 .fb-comments-comment-text {
   font-size: 0.9em;
-  color: #000;
+  color: rgb(17, 16, 16);
   border-radius: 21px;
-  background-color: #FFD700;
+  background-color: #e4c722;
   padding: 10px 20px;
 }
 
@@ -231,7 +231,7 @@ tr {
       margin-bottom: 10px; 
       padding: 22px 44px; border-color: #ff5535; border-width: 0px; 
       border-radius: 6px; 
-      background: #FFA500; 
+      background: #e20a0a; 
       box-shadow: rgba(255, 255, 255, 3.0);
       text-decoration: none!important;
     }
